@@ -4,5 +4,6 @@ sentence-transformers
 faiss-cpu
 pdfplumber
 python-dotenv
-gunicorn
 numpy
+torch
+gunicorn
