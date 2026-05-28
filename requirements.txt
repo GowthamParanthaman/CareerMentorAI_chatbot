@@ -5,3 +5,4 @@ faiss-cpu
 pdfplumber
 python-dotenv
 gunicorn
+numpy
